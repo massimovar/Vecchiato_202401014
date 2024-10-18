@@ -9,8 +9,14 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [1,2],
+    "Dimensions": [7,2],
     "Body": [
-     "","en-US"
+     "","en-US",
+     "Vector array","Vector array",
+     "Column0","Column0",
+     "Column1","Column1",
+     "ConfirmationDialogDisplayName","Confirmation Dialog",
+     "Confirm","Confirm",
+     "Cancel","Cancel"
     ]
    }
